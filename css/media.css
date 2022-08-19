@@ -1,0 +1,129 @@
+@media(max-width:576px) {
+    .phone {
+        display: none;
+    }
+
+    .mobile-phone {
+        display: block;
+
+        margin: auto;
+        width: 247px;
+
+    }
+
+    .toggler-icon {
+        color: #fff;
+    }
+
+    .navbar-brand img {
+        width: 80%;
+    }
+
+    .navbar-nav {
+        text-align: center;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+
+        display: initial;
+    }
+
+    .nav-item {
+        margin-bottom: 12px;
+    }
+
+    .height {
+        text-align: center;
+    }
+    .height h4{
+        font-size: 14px;
+        margin-top: 20px;
+    }
+    .height h1{
+        margin:16px 0;
+        font-size: 26px;
+    }
+    .height p{
+        font-size: 16px;
+        margin-bottom: 30px;
+    }
+    .btn-download{
+        padding: 8px 10px;
+        
+       
+    }
+    .btn-features{
+        padding: 8px 10px;
+        
+        
+        margin-left: 20px;
+    }
+
+
+    .product h6 {
+        font-size: 14px;
+    }
+
+    .product h1 {
+        margin: 5px 0 10px 0;
+        font-size: 25px;
+    }
+
+    .item {
+        padding-top: 20px !important;
+    }
+
+    .product h2 {
+        margin: 10px 0;
+    }
+
+    .item p {
+        margin: 20px;
+    }
+    .display h3{
+        font-size: 20px;
+        margin: 10px 0px;
+    }
+    .display h3 span{
+        font-weight: 300px;
+    }
+    .btn-download {
+       
+        padding: 9px 12px;
+        margin-bottom: 20px;
+        margin-right: 10px;
+        
+        
+        
+    }
+    .btn-features {
+        
+        padding: 9px 13px;
+        margin: 0px;
+        margin-bottom: 20px;
+    }
+    .display-bottom{
+        text-align: center;
+    }
+    .price-table{
+        margin: 0px 30px;
+        margin-top: 20px;
+    }
+    .contact-form {
+        padding: 20px;
+        width: 85%;
+        bottom: -19%;
+    }
+    .info p {
+        
+        margin-bottom: 20px;
+    }
+    footer p{
+        margin-right: 19px;
+    }
+    
+
+   
+
+
+}
